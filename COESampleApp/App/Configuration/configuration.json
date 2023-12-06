@@ -1,0 +1,6 @@
+{
+  "base_url_test": "https://fakestoreapi.com/",
+  "base_url_development": "https://fakestoreapi.com/",
+  "base_url_production": "https://fakestoreapi.com/",
+  "api_key": ""
+}
